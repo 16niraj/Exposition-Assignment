@@ -3,14 +3,13 @@ project:
   output-dir: docs
 
 website:
-  title: "Quarto Template"
+  title: "Sympy Stats"
   navbar:
     right:
       - href: index.qmd
         text: Home
       - href: blog.qmd
         text: Blog
-
 
 format:
   html:
@@ -20,7 +19,6 @@ format:
     mainfont: "Roboto"
     code-copy: true
     code-overflow: wrap
-
 
 execute:
   freeze: auto
