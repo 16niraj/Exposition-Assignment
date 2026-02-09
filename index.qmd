@@ -2,7 +2,7 @@
 title: SymPy Stats
 ---
 
-## Welcome to My Quarto Website!
+## Welcome to My Quarto Website!!
 
 This site is dedicated to exploring **SymPy Stats**, a powerful symbolic statistics module in Python. Here, you'll find tutorials, explanations, and examples to help you understand and apply statistical concepts using SymPy.
 
