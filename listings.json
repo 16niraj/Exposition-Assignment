@@ -3,7 +3,8 @@
     "listing": "/blog.html",
     "items": [
       "/posts/visualisation.html",
-      "/posts/welcome.html"
+      "/posts/welcome.html",
+      "/posts/Sympy_Stats_Module.html"
     ]
   }
 ]
